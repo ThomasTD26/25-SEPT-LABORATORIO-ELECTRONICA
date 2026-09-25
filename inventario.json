@@ -1,0 +1,72 @@
+{
+    "instrumentos_medicion": {
+        "multimetro": {
+            "cantidad": 5,
+            "estado": "disponibles"
+        },
+        "osciloscopio": {
+            "cantidad": 2,
+            "estado": "disponibles"
+        }
+    },
+    "fuentes_energia": {
+        "fuente_regulable": {
+            "cantidad": 4,
+            "estado": "disponible"
+        },
+        "generador_de_señales": {
+            "cantidad": 3,
+            "estado": "disponible"
+        }
+    },
+    "herramientas": {
+        "cautin": {
+            "cantidad": 10,
+            "estado": "disponible"
+        },
+        "estacion_soldadura": {
+            "cantidad": 2,
+            "estado": "disponible"
+        },
+        "extractor_soldadura": {
+            "cantidad": 6,
+            "estado": "disponible"
+        },
+        "pinzas_corte": {
+            "cantidad": 12,
+            "estado": "disponible"
+        },
+        "calculadora": {
+            "cantidad": 6,
+            "estado": "disponible"
+        }
+    },
+    "componentes_pasivos": {
+        "resistencias_kit": {
+            "cantidad": 500,
+            "unidad": "piezas"
+        },
+        "capacitores_kit": {
+            "cantidad": 200,
+            "unidad": "piezas"
+        },
+        "leds": {
+            "cantidad": 50,
+            "unidad": "piezas"
+        },
+        "transformador": {
+            "cantidad": 30,
+            "unidad": "piezas"
+        }
+    },
+    "prototipado": {
+        "protoboards": {
+            "cantidad": 15,
+            "estado": "disponible"
+        },
+        "jumpers": {
+            "cantidad": 300,
+            "unidad": "piezas"
+        }
+    }
+}
