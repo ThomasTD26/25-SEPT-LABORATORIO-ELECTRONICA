@@ -12,7 +12,7 @@ def pedir_password(prompt="Password: "):
     sys.stdout.write(prompt)
     sys.stdout.flush()
 
-    password = "*"
+    password = ""
 
     if os.name == "nt":
         import msvcrt
