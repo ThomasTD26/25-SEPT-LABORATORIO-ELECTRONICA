@@ -1,5 +1,0 @@
-rol, identificador , nombre , password
-
-admin,admin,Admin,admin123
-
-estudiante,2024001,Juan,1234
