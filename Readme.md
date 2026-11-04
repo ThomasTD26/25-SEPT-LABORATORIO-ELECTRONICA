@@ -9,7 +9,7 @@
 
 >>administrador:
 
--código : admin
+-código : 7894
 
 -contraseña : admin123
 
