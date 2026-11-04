@@ -1,24 +1,24 @@
-###1. Abrir archivo main.py
+1. Abrir archivo main.py
 
    
 
-###2.escoger si quieres ser estudiante o administrador
+2.escoger si quieres ser estudiante o administrador
 
 
-##3.aparece colocar código y contraseña
+3.aparece colocar código y contraseña
 
->>administrador:
+administrador:
 
 -código : 7894
 
 -contraseña : admin123
 
->>estudiante:
+estudiante:
 
 -código:2024001
 
 -contraseña: 1234
 
 
-##4.escoger las acciones del programa.
+4.escoger las acciones del programa.
 
