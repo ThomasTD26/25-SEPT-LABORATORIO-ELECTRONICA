@@ -1,4 +1,4 @@
-1. Abrir archivo main.py
+1.Abrir archivo main.py
 
    
 
