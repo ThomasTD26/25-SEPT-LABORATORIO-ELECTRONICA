@@ -266,7 +266,7 @@ def login():
         print("Opcion invalida")
         return None
 
-    identificador = input("Codigo/Usuario: ").strip()
+    identificador = input("Codigo: ").strip()
     password = pedir_password("Password: ")
 
     rol = "estudiante" if op == "1" else "admin"
