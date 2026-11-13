@@ -1,0 +1,5 @@
+rol, identificador , nombre , password
+
+admin,7894,Admin,admin123
+
+estudiante,20240010,Juan,1234
